@@ -1,11 +1,9 @@
 # Case Study: Product Dissection of Tata 1mg
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/shaikhrnafees/Business-Case-Study-on-Tata-1mg--Product-Dissection-/blob/main/logo.png" alt="Tata 1mg Logo" width="210" style="margin-right: 10px;"> <!-- Increased size by 40% -->
-  <img src="https://github.com/shaikhrnafees/Business-Case-Study-on-Tata-1mg--Product-Dissection-/blob/main/Med.gif" alt="Animated GIF" width="150">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFxbRoDn6bY0w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1672445830727?e=2147483647&v=beta&t=oV1-ZBarZUSo05bkx5TtOWEAj0G4gcAELMl3uVsH04s" alt="Tata 1mg Logo" width="588" style="margin-right: 10px;"> <!-- Logo width increased by 40% -->
+  <img src="https://media.tenor.com/F451Reszf4EAAAAi/dont-be-sick-doctor.gif" alt="Animated GIF" width="150">
 </div>
-
-
 
 ## Overview
 
